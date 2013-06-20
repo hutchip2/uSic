@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="Libraries/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="Libraries/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="Libraries/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="Libraries/jaudiotagger.jar"/>
+	<classpathentry kind="lib" path="Libraries/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="Libraries/miglayout-3.7.1.jar"/>
+	<classpathentry kind="lib" path="Libraries/mp3spi1.9.4 (c)(working mark limit).jar"/>
+	<classpathentry kind="lib" path="Libraries/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="Libraries/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
